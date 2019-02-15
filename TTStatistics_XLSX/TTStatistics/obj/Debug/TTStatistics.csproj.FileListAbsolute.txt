@@ -34,3 +34,6 @@ D:\四川世乒赛\TTStatistics_XLSX\TTStatistics\obj\Debug\TTStatistics.csprojR
 D:\四川世乒赛\TTStatistics_XLSX\TTStatistics\obj\Debug\TTStatistics.TTStatistics.resources
 D:\四川世乒赛\TTStatistics_XLSX\TTStatistics\obj\Debug\TTStatistics.Properties.Resources.resources
 D:\四川世乒赛\TTStatistics_XLSX\TTStatistics\obj\Debug\TTStatistics.csproj.GenerateResource.Cache
+D:\AutosportsTVG\乒乓球\乒乓球技术统计\TTStatistics_XLSX\TTStatistics\bin\Debug\TTStatistics.exe.config
+D:\AutosportsTVG\乒乓球\乒乓球技术统计\TTStatistics_XLSX\TTStatistics\obj\Debug\TTStatistics.exe
+D:\AutosportsTVG\乒乓球\乒乓球技术统计\TTStatistics_XLSX\TTStatistics\obj\Debug\TTStatistics.pdb
